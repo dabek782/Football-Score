@@ -1,0 +1,18 @@
+.nav{
+    background-color: #0b1830;
+    height: 20%;
+    flex: auto;
+    justify-content: flex-start;
+    display: flex;
+    box-sizing: border-box;
+    box-shadow: 2px black;
+    align-items: center;
+
+
+}
+h1{
+    color:white
+}
+.img{
+    padding-right: 10px;
+}
