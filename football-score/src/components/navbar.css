@@ -34,7 +34,7 @@ h1{
     height: 5vh;
     padding-top:5px ;
     margin: 5px;
-
+    transition: all ease-in-out 0.2s;
     
 }
 .fav:hover{
