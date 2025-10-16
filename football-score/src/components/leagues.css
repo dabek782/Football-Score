@@ -17,7 +17,7 @@ button{
     text-align: center;
     position: relative;
     gap: 5px; ;
-    height: 5vh;
+    height: 8vh;
     padding-top:5px ;
     margin: 5px;
     opacity: 1;
@@ -36,4 +36,10 @@ span{
     justify-content: center;
     align-items: center;
     align-content: center;
+}
+.Other{
+    width: 2vw;
+}
+.champions{
+    width: 10%;
 }
