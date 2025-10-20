@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.short-match-info{
+    background: rgb(203,203,203);
+    width: 40vw;
+    height: 20vh;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+.info{
+    display: flex;
+    flex-direction:row;
+    height: 4vh;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    background:rgb(178, 190, 181);
+}
+.time{
+    height: 16vh;
+    width: 5vw;
+    align-items: center;
+    
+}
+.time , .team1 , .team2 , .score1, .score2{
+    flex-direction: row;
+}
+
