@@ -2,7 +2,8 @@ import "./leagues.css"
 import "/node_modules/flag-icons/css/flag-icons.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import Champions from "./asset/championslogo.png"
-
+import GetData from "../api";
+GetData()
 function Leagues(){
 
     return(

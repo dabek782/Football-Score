@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const GetData = async () => {
-    const url =  'http://site.api.espn.com/apis/site/v2/sports/soccer/rus.1/scoreboard'
+    const url =  'http://site.api.espn.com/apis/site/v2/sports/soccer/competisions/'
     try{
         const res = await axios(url)
         console.log(res.data)
